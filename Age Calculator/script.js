@@ -23,7 +23,7 @@ function ageCalculate(){
         alert("Not Born Yet");
         displayResult("-","-","-");
         return;
-    }
+    }     
 
     birthYear = currentYear - birthDetails.year;
 
